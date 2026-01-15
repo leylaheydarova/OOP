@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\interfaces\\iautoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\interfaces\\iautoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\oop\\oop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0051F-5707-4BB1-AE32-397DA00BA663}|OOP\\OOP.csproj|solutionrelative:oop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutoService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Interfaces\\IAutoService.cs",
+              "RelativeDocumentMoniker": "OOP\\Interfaces\\IAutoService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Interfaces\\IAutoService.cs",
+              "RelativeToolTip": "OOP\\Interfaces\\IAutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:46:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "OOP\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "OOP\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:43:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Auto.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Auto.cs",
+              "RelativeToolTip": "OOP\\Models\\Auto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:37:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Bus.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Bus.cs*",
+              "RelativeToolTip": "OOP\\Models\\Bus.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:35:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Car.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Car.cs*",
+              "RelativeToolTip": "OOP\\Models\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:26:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Person.cs",
               "RelativeDocumentMoniker": "OOP\\Models\\Person.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Person.cs*",
-              "RelativeToolTip": "OOP\\Models\\Person.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA7wBwAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Person.cs",
+              "RelativeToolTip": "OOP\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T12:15:37.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "OOP\\Models\\Vehicle.cs",
@@ -56,26 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Car.cs",
-              "RelativeDocumentMoniker": "OOP\\Car.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Car.cs",
-              "RelativeToolTip": "OOP\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T11:52:33.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Program.cs*",
-              "RelativeToolTip": "OOP\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T11:51:58.523Z",
               "EditorCaption": ""

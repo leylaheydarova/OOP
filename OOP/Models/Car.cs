@@ -1,9 +1,14 @@
 ﻿namespace OOP.Models
 {
-    public class Car
+    public sealed class Car : Auto
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public double Price { get; set; }
+        public string Motor { get; set; }
+        public Car() : base(4)
+        {
+        }
+        //public override void Drive()
+        //{
+        //    Console.WriteLine("Car is driving");
+        //}
     }
 }
