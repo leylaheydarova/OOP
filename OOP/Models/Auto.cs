@@ -4,7 +4,7 @@ namespace OOP.Models
 {
     public class Auto : Vehicle, IAutoService, IVehicleService
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public double Price { get; set; }
         public int Speed { get; set; }
         public decimal SuretlerQutusu { get; set; }
