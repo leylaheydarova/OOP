@@ -1,21 +1,43 @@
-﻿using OOP.Models;
-using System.Text;
+﻿using OOP;
+using System.Text.Json;
 
-string name = "Najiba";
-name = "Leyla"; //mutable
-//Console.WriteLine(name);
+//var apple = new Fruit()
+//{
+//    Id = 1,
+//    Name = "Apple"
+//};
 
-StringBuilder surname = new StringBuilder(); //immutable
-surname.AppendLine("Valiyeva");
-surname.Append("Heydarova");
-//Console.WriteLine(surname.ToString());
+//var peach = new Fruit()
+//{
+//    Id = 2,
+//    Name = "Peach"
+//};
+
+//var grape = new Fruit()
+//{
+//    Id = 3,
+//    Name = "Grape"
+//};
+
+//var pineapple = new Fruit()
+//{
+//    Id = 4,
+//    Name = "Pineapple"
+//};
+
+//Fruit[] fruits = { apple, peach, grape, pineapple, apple, gr };
+//var file = File.Open(@"D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP\fruits.txt", FileMode.OpenOrCreate);
+//JsonSerializer.Serialize(file, fruits);
+//file.Close();
 
 
-//ikilik say sistemi (binary): 0, 1, meselen 100111001110010101010, 1 simvol 1 bitdir.
-//8-lik say sistemi (octal) : 0, 1, 2, 3, 4, 5, 6, 7, meselen, 1 simvol 
-//10-luq say sistemi (decimal) : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, bizim istifade etdiyimiz
-//16-liq say sistemi (hexadecimal) : 0, 1, 2, 3, 4, 5, 6, 7, 8 , 9, A, B, C, D, E, F, meselen F2A
-//Console.WriteLine(Guid.NewGuid()); //Global Unique Identificator
-                                   //b170873b-3465-433f-983f-24add1f2222eNacibaValiyeva-Cv.pdf
-                                   //c270873b-3465-433f-983f-24add1f2222eNacibaValiyeva-Cv.pdf
-                                   //1170873b-3465-433f-983f-24add1f2222eNacibaValiyeva-Cv.pdf
+
+
+
+var file = File.OpenRead(@"D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP\fruits.txt");
+var fruits = JsonSerializer.Deserialize<Fruit[]>(file);
+file.Close();
+foreach (var fruit in fruits)
+{
+    Console.WriteLine($"{fruit.Id} {fruit.Name}");
+}
