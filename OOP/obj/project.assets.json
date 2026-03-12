@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "OOP.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OOP.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OOP.Core/1.0.0": {
+      "type": "project",
+      "path": "../OOP.Core/OOP.Core.csproj",
+      "msbuildProject": "../OOP.Core/OOP.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "OOP.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Leyla\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP.Core\\OOP.Core.csproj": {
+              "projectPath": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\OOP\\OOP.Core\\OOP.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

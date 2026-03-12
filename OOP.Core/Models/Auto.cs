@@ -30,3 +30,7 @@ namespace OOP.Models
         }
     }
 }
+
+//Machine Language : 0111010011001010101010
+//Assembly Language : IL (Intermadiate Language)
+//High-level Language : Bizim basa dusduyumuz yazi.

@@ -1,0 +1,12 @@
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.AssemblyInfoInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.AssemblyInfo.cs
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.sourcelink.json
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\bin\Debug\net8.0\OOP.Core.deps.json
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\bin\Debug\net8.0\OOP.Core.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\bin\Debug\net8.0\OOP.Core.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\refint\OOP.Core.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\OOP.Core.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-02\OOP\OOP.Core\obj\Debug\net8.0\ref\OOP.Core.dll
